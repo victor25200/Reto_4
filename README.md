@@ -20,5 +20,4 @@
 	Si modulo(n,i) == 0 entonces
     escribir("n  es primo ")
     fin
-
-[![translate-24dp.png](https://i.postimg.cc/bw93smQW/translate-24dp.png)](https://postimg.cc/2134tF97)
+[![image.png](https://i.postimg.cc/mk76VBH2/image.png)](https://postimg.cc/p5XZLNCg)
